@@ -1,0 +1,10 @@
+button {
+    margin-top: 50vh;
+}
+body {
+    -webkit-transition: ease 0.9s;
+    -o-transition: ease 0.9s;
+    -webkit-transition: ease 0.4s;
+    -o-transition: ease 0.4s;
+    transition: ease 0.4s;
+}
